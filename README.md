@@ -1,18 +1,240 @@
-# PremierZone
+You can paste this **directly into your GitHub README.md** for the **PremierZone Fantasy project**.
 
-PremierZone is a comprehensive project designed to scrape match statistics for over 700 players, manipulate and present the data dynamically, and predict match outcomes using machine learning. The project is divided into four main components: Backend, Frontend, Data Scraping, and Machine Learning.
+---
 
-<img width="1407" alt="Screenshot 2024-06-22 at 11 29 13 PM" src="https://github.com/Erik-Cupsa/PLWebsite/assets/86483911/022e82ae-5190-49a4-a15d-87fc8227a579">
+# ⚽ PremierZone Fantasy
 
-You can find the [project here!](https://premierzone.vercel.app/)  
-Note: The backend is currently not being hosted, this will be fixed in one to two business weeks...
+PremierZone Fantasy is a **football analytics and fantasy-style web application** that allows users to explore **Premier League teams, nations, player positions, and detailed player statistics**.
 
-## Features
+The platform provides an **interactive UI with search functionality and player analytics**, helping users easily explore football data and compare players.
 
-- **Data Scraping**: Engineered a comprehensive data scraping of match statistics for 700+ players using Python and pandas.
-- **Backend**: Dynamic manipulation and presentation of the scraped data through a Spring Boot application.
-- **Database**: Real-time data manipulation within a Postgres database using SQL queries.
-- **Frontend**: Seamless integration with a user-friendly ReactJS interface.
-- **Machine Learning**: Created a model to predict match outcomes by integrating data scraping with pandas and machine learning with scikit-learn.
+---
 
+# 🚀 Features
 
+### 🏠 Home Page
+
+* Clean landing page introducing the platform
+* Quick navigation to explore teams, nations, and player data
+* Call-to-action button to start exploring
+
+---
+
+### 🏆 Teams Section
+
+Users can browse **Premier League teams**.
+
+Features:
+
+* Team logos display
+* Search functionality for teams
+* Clickable team cards
+* Navigate to player statistics
+
+---
+
+### 🌍 Nations Section
+
+Explore players based on their **national teams**.
+
+Features:
+
+* Country flags display
+* Search countries
+* Filter players by nationality
+
+---
+
+### 👕 Player Positions
+
+Browse players by **football positions**.
+
+Positions include:
+
+* Goalkeeper (GK)
+* Defender (DF)
+* Midfielder (MF)
+* Forward (FW)
+
+Each position page shows **relevant players and match visuals**.
+
+---
+
+### 🔍 Player Search
+
+Search for any player quickly.
+
+Features:
+
+* Player search bar
+* Fast filtering
+* Instant navigation to player stats
+
+---
+
+### 📊 Player Data Analytics
+
+Detailed player statistics including:
+
+* Name
+* Position
+* Age
+* Matches Played
+* Starts
+* Minutes Played
+* Goals
+* Assists
+* Penalties
+* Yellow Cards
+* Red Cards
+* Expected Goals (xG)
+* Expected Assists (xAG)
+* Team
+
+This allows users to analyze **performance metrics and advanced football statistics**.
+
+---
+
+# 🖥 Application Screenshots
+
+## 🏠 Home Page
+
+![Home Page](images/home.png)
+
+---
+
+## 🏆 Teams Page
+
+![Teams Page](images/teams.png)
+
+---
+
+## 🌍 Nations Page
+
+![Nations Page](images/nations.png)
+
+---
+
+## 👕 Player Positions
+
+![Positions Page](images/positions.png)
+
+---
+
+## 🔍 Player Search
+
+![Search Page](images/search.png)
+
+---
+
+## 📊 Player Data
+
+![Player Data](images/player-data.png)
+
+---
+
+# 🧰 Tech Stack
+
+### Frontend
+
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+
+### Data & APIs
+
+* Football player dataset
+* Statistical analytics
+
+### Tools
+
+* Node.js
+* npm
+* VS Code
+* Git
+
+---
+
+# 📂 Project Structure
+
+```
+PremierZone-Fantasy
+│
+├── public
+│   ├── images
+│   ├── logos
+│
+├── src
+│   ├── components
+│   ├── pages
+│   ├── data
+│   ├── styles
+│
+├── package.json
+└── README.md
+```
+
+---
+
+# ⚙️ Installation
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/yourusername/premierzone-fantasy.git
+```
+
+---
+
+### 2️⃣ Navigate to project folder
+
+```bash
+cd premierzone-fantasy
+```
+
+---
+
+### 3️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+### 4️⃣ Run the application
+
+```bash
+npm start
+```
+
+The application will run on:
+
+```
+http://localhost:3000
+```
+
+---
+
+# 🎯 Learning Outcomes
+
+This project helped demonstrate:
+
+* React component architecture
+* Frontend routing
+* Dynamic data rendering
+* Search and filtering features
+* Sports data visualization
+* UI/UX design for sports analytics
+
+---
+
+# 👨‍💻 Author
+
+**Sameer Kumar Pattnaik**
+
+* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
