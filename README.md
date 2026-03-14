@@ -1,6 +1,4 @@
-You can paste this **directly into your GitHub README.md** for the **PremierZone Fantasy project**.
 
----
 
 # ⚽ PremierZone Fantasy
 
@@ -99,7 +97,7 @@ This allows users to analyze **performance metrics and advanced football statist
 
 ## 🏠 Home Page
 
-![Home Page](images/home.png)
+![Home Page](https://github.com/Sameer-Pattnaik/PL-Website/blob/36740f7a688c4edfd931d9cf53d132261fa81afd/Screenshot%20(416).png)
 
 ---
 
