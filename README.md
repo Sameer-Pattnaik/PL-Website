@@ -121,7 +121,7 @@ This allows users to analyze **performance metrics and advanced football statist
 
 ## 🔍 Player Search
 
-![Search Page](images/search.png)
+![Search Page](https://github.com/Sameer-Pattnaik/PL-Website/blob/ef2e3f876a644ff461afafc32153ad91831087a6/Screenshot%20(415).png)
 
 ---
 
