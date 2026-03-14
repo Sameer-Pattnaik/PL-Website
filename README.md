@@ -103,7 +103,7 @@ This allows users to analyze **performance metrics and advanced football statist
 
 ## 🏆 Teams Page
 
-![Teams Page](images/teams.png)
+![Teams Page](https://github.com/Sameer-Pattnaik/PL-Website/blob/63bc26a6839cceac91768b6834d2027906e6b3d9/Screenshot%20(412).png)
 
 ---
 
