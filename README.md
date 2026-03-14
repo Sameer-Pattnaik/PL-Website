@@ -109,7 +109,7 @@ This allows users to analyze **performance metrics and advanced football statist
 
 ## 🌍 Nations Page
 
-![Nations Page](images/nations.png)
+![Nations Page](https://github.com/Sameer-Pattnaik/PL-Website/blob/76feaf231eca017897efdb3196d1f83d3c389ba9/Screenshot%20(413).png)
 
 ---
 
