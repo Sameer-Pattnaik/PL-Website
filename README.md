@@ -127,7 +127,7 @@ This allows users to analyze **performance metrics and advanced football statist
 
 ## 📊 Player Data
 
-![Player Data](images/player-data.png)
+![Player Data](https://github.com/Sameer-Pattnaik/PL-Website/blob/9dc67fd8d2b0fa2c78901e9200c037dcacfdd244/Screenshot%20(417).png)
 
 ---
 
