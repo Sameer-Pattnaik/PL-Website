@@ -115,7 +115,7 @@ This allows users to analyze **performance metrics and advanced football statist
 
 ## 👕 Player Positions
 
-![Positions Page](images/positions.png)
+![Positions Page](https://github.com/Sameer-Pattnaik/PL-Website/blob/75efa351c3a305cf5a31a46f1d3410f0fb017fdb/Screenshot%20(414).png)
 
 ---
 
