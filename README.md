@@ -232,7 +232,7 @@ This project helped demonstrate:
 
 **Sameer Kumar Pattnaik**
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* GitHub: [https://github.com/Sameer-Pattnaik](https://github.com/Sameer-Pattnaik)
+* LinkedIn: [https://linkedin.com/in/sameer-kumar-pattnaik](https://linkedin.com/in/sameer-kumar-pattnaik)
 
 ---
